@@ -40,4 +40,5 @@ gulp.task('serve', function() {
 });
 
 gulp.task('default', ['start']);
+gulp.task('test', ['karma'])
 
